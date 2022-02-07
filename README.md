@@ -1,6 +1,6 @@
-# Yair Segal Toptal App
+# Yair Segal App
 
-This is a project created for Toptal
+This is a project
 
 ## Technologies used
 

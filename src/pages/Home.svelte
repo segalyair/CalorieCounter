@@ -5,7 +5,7 @@
 </script>
 
 <div class="container">
-    <h1>Welcome to Yair Segal's Toptal App</h1>
+    <h1>Welcome to the Kalorie Counter</h1>
 </div>
 
 <style>

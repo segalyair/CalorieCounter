@@ -7,14 +7,15 @@ import { getAuth, setPersistence, browserLocalPersistence } from "firebase/auth"
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyDcQDEADj5qFMEg8eDNnHOXXO-FihU7oH0",
-    authDomain: "toptal-yair.firebaseapp.com",
-    databaseURL: "https://toptal-yair-default-rtdb.europe-west1.firebasedatabase.app",
-    projectId: "toptal-yair",
-    storageBucket: "toptal-yair.appspot.com",
-    messagingSenderId: "623343378615",
-    appId: "1:623343378615:web:286ec10f6bbf8c05152d32"
-};
+    apiKey: "AIzaSyC-ZMfdZ7pRj590aYoW3SuW4qoqT9gaUe8",
+    authDomain: "kalorie-tracker.firebaseapp.com",
+    databaseURL: "https://kalorie-tracker-default-rtdb.europe-west1.firebasedatabase.app",
+    projectId: "kalorie-tracker",
+    storageBucket: "kalorie-tracker.appspot.com",
+    messagingSenderId: "914381474228",
+    appId: "1:914381474228:web:639024e8ab53c00ffecae1"
+  };
+  
 
 let app;
 export let db;
